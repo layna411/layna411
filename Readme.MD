@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;Spring+Boot+%7C+React+Expert;IoT+Enthusiast" />
 </p>
 
----
+
 
 ## 👋 About Me
 
@@ -21,7 +21,7 @@
 
 🔗 Strong ability to integrate **hardware + software systems** through IoT-based solutions.
 
----
+
 
 ## 🔥 What Makes Me Different
 
@@ -30,7 +30,7 @@
 ✔️ Strong focus on **clean architecture & scalable design**
 ✔️ Combine **Android + Web + Backend** in a single ecosystem
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,android,firebase,mysql,git" />
 </p>
 
----
+
 
 ## 📱 Featured Work
 
@@ -58,7 +58,7 @@
 * Smart Irrigation System
 * Smart Pharmacy System with LED rack automation
 
----
+
 
 ## 📊 GitHub Performance
 
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layna411&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -83,7 +83,7 @@
   </a>
 </p>
 
----
+
 
 ## 👀 Profile Views
 
