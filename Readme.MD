@@ -1,104 +1,96 @@
-# 💫 About Me
+# 🚀 Layna | Full Stack Developer
 
-## 👋 Hi, I'm Layna
+<h3 align="center">⚡ Building Scalable Web, Mobile & IoT Solutions ⚡</h3>
 
-💻 **Full Stack Developer** with expertise in building scalable web and mobile applications across **Java, Spring Boot, React, and Android**.
-
-🎓 Background in **Electronics and Communication Engineering**, with strong experience integrating **software and embedded systems**.
-
----
-
-## 🚀 Professional Summary
-
-* Full Stack Developer specializing in **Java, Spring Boot, and React.js**
-* Android Developer with hands-on experience in **Firebase-based applications**
-* Strong experience in **REST API development and database design**
-* Built real-time systems combining **IoT, mobile apps, and backend services**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Developer;Spring+Boot+%7C+React+Expert;IoT+Enthusiast" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👋 About Me
 
-### 💻 Programming
+💻 **Full Stack Developer** experienced in designing and building high-performance applications across **Web, Mobile, and Backend systems**.
 
-* Java
-* JavaScript
+⚡ Specialized in:
 
-### 🌐 Web Development
+* Java + Spring Boot (Backend)
+* React.js (Frontend)
+* Android Development (Mobile Apps)
+* Firebase & Real-time systems
 
-* HTML, CSS, JavaScript
-* React.js
-
-### 📱 Mobile Development
-
-* Android Development (Java / XML)
-* Firebase (Authentication, Firestore, Realtime Database)
-
-### ⚙️ Backend Development
-
-* Spring Boot
-* REST API Development
-
-### 🗄️ Database
-
-* MySQL
-* Firebase
-
-### 🔧 Tools
-
-* Git & GitHub
-* Android Studio
-* VS Code
-
-### ⚡ Embedded Systems
-
-* Arduino
-* Raspberry Pi Pico W
+🔗 Strong ability to integrate **hardware + software systems** through IoT-based solutions.
 
 ---
 
-## 📌 Project Experience
+## 🔥 What Makes Me Different
 
-* Developed **full stack applications** using React and Spring Boot
-* Built **Android applications** with role-based authentication and Firebase integration
-* Designed and implemented **secure REST APIs**
-* Created **IoT-based systems** including smart irrigation and smart pharmacy solutions
-
----
-
-## 🎯 Career Objective
-
-To contribute as a **Full Stack / Android Developer**, delivering scalable and efficient real-world solutions.
+✔️ Build **end-to-end applications** (UI → Backend → Database → Deployment)
+✔️ Experience in **real-time systems & IoT integration**
+✔️ Strong focus on **clean architecture & scalable design**
+✔️ Combine **Android + Web + Backend** in a single ecosystem
 
 ---
 
-## 🌐 Connect
+## 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/laynas/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:layna4115@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge\&logo=spring\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,android,firebase,mysql,git" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📱 Featured Work
 
-![](https://github-readme-stats.vercel.app/api?username=layna411\&theme=transparent\&hide_border=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=layna411\&theme=transparent\&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=layna411\&theme=transparent\&hide_border=true\&layout=compact)
+🚀 **Full Stack Applications**
+
+* React + Spring Boot based scalable applications
+* REST API design with secure backend architecture
+
+📱 **Android Applications**
+
+* Role-based login systems (Admin/User)
+* Firebase Authentication & Firestore integration
+* Real-time mobile apps with modern UI
+
+⚡ **IoT Systems**
+
+* Smart Irrigation System
+* Smart Pharmacy System with LED rack automation
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=layna411\&icon=0\&color=0)
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=layna411&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=layna411&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layna411&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laynas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:layna4115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=layna411&icon=5&color=6" />
+</p>
+
+---
+
+<h3 align="center">💡 "Building systems that connect code with the real world."</h3>
