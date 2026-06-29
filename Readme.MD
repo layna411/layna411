@@ -1,88 +1,176 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Layn
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:6C63FF,50:00F5FF,100:00C896&text=LAYNA&fontAlign=50&fontAlignY=38&fontSize=72&fontColor=ffffff&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Android+Developer;IoT+Engineer;Building+Modern+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=900&center=true&vCenter=true&width=900&lines=👋+Hello+World!;💻+Full+Stack+Developer;☕+Spring+Boot+Developer;⚛️+React+Developer;📱+Android+Developer;🤖+AI+%7C+IoT+Developer;🚀+Building+CodeBuger+AI"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,100:8A2BE2&text=LAYNA&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🚀 Full Stack Developer
+```yaml
+Name: Layna
 
-💻 Spring Boot Backend
+Role: Full Stack Developer
 
-⚛ React Developer
+Backend:
+  - Java
+  - Spring Boot
+  - REST API
 
-📱 Android Developer
+Frontend:
+  - React
+  - TypeScript
+  - Tailwind CSS
 
-🔥 Firebase Expert
+Mobile:
+  - Android
+  - Kotlin
 
-⚡ REST API Specialist
+Database:
+  - MySQL
+  - MongoDB
+  - Firebase
 
-🌍 IoT Enthusiast
+Cloud:
+  - Docker
+  - GitHub
 
-🎯 Love building scalable products
-
-☕ Coffee + Code
+Current Goal:
+  - Building CodeBuger AI
+```
 
 ---
 
-# 🚀 Tech Universe
+# ⚡ Current Mission
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Building an AI Coding IDE
+
+██████████████░░░░░░░░ 60%
+
+✓ AI Tutor
+✓ Monaco Editor
+✓ Scenario Generator
+⬜ Code Trace Engine
+⬜ Bug Injection
+⬜ AI Evaluation
+⬜ Leaderboard
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 💻 Tech Stack
+
+## Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,ts,nextjs,html,css,tailwind,android,firebase,mysql,mongodb,docker,git,github,vscode,figma,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## Frontend
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=layna411&theme=tokyonight&column=4&margin-w=20&margin-h=20"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
 
 </p>
 
 ---
 
-# 📊 Analytics
+## Backend
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=layna411&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layna411&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=layna411&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi,firebase"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## Database
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=layna411&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
 
 </p>
 
 ---
 
-# 🐍 Snake Animation
+## DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux"/>
+
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,androidstudio"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=layna411&theme=tokyonight&no-frame=true&margin-w=20&margin-h=20&column=4"/>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=layna411&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layna411&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=layna411&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=layna411&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -92,26 +180,38 @@
 
 ---
 
-# 🌎 Connect
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🤖 CodeBuger AI | AI Coding Learning Platform | React, FastAPI |
+| 📱 Food Ordering App | Multi-role Ordering System | Flutter |
+| 🌱 A2ZEE MicroGreenz | Marketplace Platform | React, Firebase |
+| ⚙️ IoT Smart Device | BLE + Android Controller | Kotlin |
+
+---
+
+# 🌍 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/laynas">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:layna4115@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
+<a href="https://github.com/layna411">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Random Dev Quote
+# ☕ Dev Quote
 
 <p align="center">
 
@@ -121,7 +221,7 @@
 
 ---
 
-# 😂 Random Meme
+# 😂 Programming Meme
 
 <p align="center">
 
@@ -141,4 +241,10 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:00F5FF,100:8A2BE2"/>
+<div align="center">
+
+## ⚡ "Code. Learn. Debug. Repeat."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=170&color=0:6C63FF,50:00F5FF,100:00C896"/>
+
+</div>
